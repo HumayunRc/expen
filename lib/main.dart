@@ -28,31 +28,6 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      // theme: ThemeData(
-      //     primarySwatch: Colors.purple,
-      //     accentColor: Colors.amber,
-      //     // errorColor: Colors.red,
-      //     fontFamily: 'Quicksand',
-      //     textTheme: ThemeData.light().textTheme.copyWith(
-      //           titleSmall: TextStyle(
-      //             fontFamily: 'OpenSans',
-      //             fontWeight: FontWeight.bold,
-      //             fontSize: 18,
-      //           ),
-      //           button: TextStyle(color: Colors.white),
-      //         ),
-      //     appBarTheme: AppBarTheme()
-      //     // appBarTheme: AppBarTheme(
-      //     //   titleTextStyle: ThemeData.light().textTheme.copyWith()copyWith(
-      //     //         titleSmall: TextStyle(
-      //     //           fontFamily: 'OpenSans',
-      //     //           fontSize: 20,
-      //     //           fontWeight: FontWeight.bold,
-      //     //         ),
-      //     //       ),
-      //     // ),
-      //     ),
-
       home: MyHomePage(),
     );
   }
